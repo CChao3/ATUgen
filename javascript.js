@@ -1,5 +1,5 @@
 var plots = [
-'The Theft of xz', 'How the xz Lost Their xz', 'Sham xz and xz', 'Carrying the xz Trickster', 'Biting the xz', 'The Calling of Three xz Names',
+'The Theft of xz', 'How the xz Lost Their xz', 'Sham xz and xz', 'Carrying the xz Trickster', 'Biting the xz', 'The Calling of Three xz xzs',
 '"xz" on the xz', 'The Unjust xz', 'Stealing the xz\'\s xz', 'xzs Eat One Another Up', 'Eating Their Own xzs',  'The xz Tricks the xz into Falling into a xz',
 'The xz Dives into the xz for Reflected xz', 'The xz in Disguise Violates the xz', 'The xz as xz', 'xz in Split xz', 'The xz Pulls xzs Apart So That the xz\'\s Old xz Can Get xz',
 'The xz Overeats in the xz', 'The xz Builds a xz of xz; the xz, of xz', 'The xz on the xz', 'The xz and the xz', 'Curing a Sick xz', 'The xz\'\s xz',
@@ -18,7 +18,7 @@ var plots = [
 'The Rebounding xz', 'The Helpful xz and the xz', 'The xzs\'\s xz', 'The Lean xz Prefers xz to Abundant xz and a xz', 'xz, xz, and xz in xz at xz',
 'xz Threshed a Second Time', 'xz of the Work xzs', 'The Traveling xzs and the Wicked xz', 'The xz Who was So Tired of Their Daily xz', 'The Lying xz', 
 'xz Tries to Caress their xz like a xz', 'The xz of xzs', 'The xz of xz-King', 'The xz-xz and the xz', 'Wedding of the xz and the xz', 'The xz That Wanted to Fly', 'The xz Teaches the xz to Swim', 
-'The xz\'\s Eternal xz', 'The xz Tries to be as Big as a xz', 'The xz Frightened at the xz\'\s xz', 'The Rearing of the xz-xzed and xz-xzed xz', 'The xz (xz) Transports the xz',
+'The xz\'\s Eternal xz', 'The xz Tries to be as Big as a xz', 'The xz Frightened at the xz\'\s xz', 'The Rearing of the xz-headed and xz-eyed xz', 'The xz (xz) Transports the xz',
 'The xz and the xzs of xz', 'The xz Borrows the xz\'\s xz',  'Imitating xz xzs', 'The xz That Talked Too Much', 'The Keen xz of the xz and the Keen xz of the xz', 
 'The xz Helps the xz Escape from the xz', 'The Officious xz and the xz', 'The xz Enticed out of their xz', 'The xz Pretends to be xz', 'xz xzs',
 'Tame xz and Wild xz', 'The xz Bends the xz', 'Every xz Thinks Their xz Is the Most Beautiful', 'Swimming xz of the xz', 'The xz and the xz Race to xz', 'The xz of the xz and the xz',
@@ -36,7 +36,7 @@ var motifs = ['Fish', 'Bear', 'Blood', 'Brain', 'Foot', 'Tree', 'Painting', 'Hay
 'Liberty', 'Food', 'Chain', 'Sheep', 'Duck', 'Peril', 'Sea', 'Straw', 'Rebellion', 'Candle', 'Council', 'Election', 'Willow', 'Wren', 'Turkey', 'Peacock', 'Tortoise', 'Goose', 'Prayer', 'Hawk', 'Snipe', 'Bill', 'Heron', 'Heathcock', 'Passage', 'Nightingale', 'Blindworm', 'Jay', 
 'Cuckoo', 'Skin', 'Sound', 'Parrot', 'Sight', 'Dove', 'Hearing', 'Frog', 'Crow', 'Deer', 'Snare', 'Hole', 'God', 'Plume', 'Hunter', 'Sparrow', 'Match', 'Pike',
 'Land', 'Net', 'Crayfish', 'Rat', 'Ant', 'Load', 'Spider', 'Fly', 'Curtain', 'Bat', 'Diver', 'Thornbush', 'Tug', 'Cricket', 'Voice', 'Debate',
-'Coal', 'Bean', 'Wind',
+'Coal', 'Bean', 'Wind', 'Name',
 ]
 
 function newTale() {
