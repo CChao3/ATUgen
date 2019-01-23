@@ -14,7 +14,7 @@ var plots = [
 'The xz and the Seven Young xzs', 'The Three Little xz',  'The xz Flees from the xz', 'Outcast xzs Find a New xz',  'xz as False xz to the xz', 'xz Admires their xzs in the xz',
 'xz Surprises xz in xz xz', 'The Filthy xz and the Clean xz',  'The xz\'\s Three xzs', 'xz Lessons for Wild xzs', 'The Gelding of the xz and the Fetching of xz', 'xz Is the xz\'\s xz', 'Learning to Fear xz', 'The Wild xzs on the xz', 
 'Captured Wild xzs Ransom themselves', 'Grateful xzs; Ungrateful xz', 'xz Betrays xz by Pointing', 'The Singing xz',  'The xz in the xz of xzs',
-'The xz in the xz-trap', 'The xz Eats Their Fellow-xz', 'The Three xzs', 'xz and xzs Readjust Span of xz', 'The xz Tricks the xzs',  'The Faithful xz Rashly Killed', 'What the xz Whispered in Their xz',
+'The xz in the xz-trap', 'The xz Eats Their Fellow-xz', 'The Three xzs', 'xz and xzs Readjust xz of xz', 'The xz Tricks the xzs',  'The Faithful xz Rashly Killed', 'What the xz Whispered in Their xz',
 'The Rebounding xz', 'The Helpful xz and the xz', 'The xzs\'\s xz', 'The Lean xz Prefers xz to Abundant xz and a xz', 'xz, xz, and xz in xz at xz',
 'xz Threshed a Second Time', 'xz of the Work xzs', 'The Traveling xzs and the Wicked xz', 'The xz Who was So Tired of Their Daily xz', 'The Lying xz', 
 'xz Tries to Caress their xz like a xz', 'The xz of xzs', 'The xz of xz-King', 'The xz-xz and the xz', 'Wedding of the xz and the xz', 'The xz That Wanted to Fly', 'The xz Teaches the xz to Swim', 
@@ -33,11 +33,11 @@ var motifs = ['Fish', 'Bear', 'Blood', 'Brain', 'Foot', 'Tree', 'Painting', 'Hay
 'Dog', 'Guest', 'Child', 'Shoemaker', 'War', 'Dueler', 'Cat', 'Conversation', 'Leader', 'Defeat', 'Force', 'Breed', 'Chanticleer', 'Sun', 'King', 'Horse',
 'Lip', 'Scrotum', 'Hay-Wagon', 'Sunrise', 'Prey', 'Kid', 'Pig', 'Wolf-head', 'Home', 'Tiger', 'Friend', 'Cow', 'Goat', 'Horn', 'Hog', 'Precept', 'Music',
 'Salve', 'Farmer', 'Ingratitude', 'World', 'Reward', 'Man', 'Sleigh', 'Peasant', 'Company', 'Saint', 'Musician', 'Lodger', 'Life', 'Ear', 'Bow', 'Snake',
-'Certificate', 'Liberty', 'Food', 'Chain', 'Sheep', 'Duck', 'Peril', 'Sea', 'Straw', 'Rebellion', 'Candle', 'Council', 'Election', 'Willow', 'Wren',
-'Turkey', 'Peacock', 'Tortoise', 'Goose', 'Prayer', 'Titmouse', 'Hawk', 'Snipe', 'Bill', 'Heron', 'Heathcock', 'Passage', 'Nightingale', 'Blindworm', 'Jay', 
+'Liberty', 'Food', 'Chain', 'Sheep', 'Duck', 'Peril', 'Sea', 'Straw', 'Rebellion', 'Candle', 'Council', 'Election', 'Willow', 'Wren',
+'Turkey', 'Peacock', 'Tortoise', 'Goose', 'Prayer', 'Hawk', 'Snipe', 'Bill', 'Heron', 'Heathcock', 'Passage', 'Nightingale', 'Blindworm', 'Jay', 
 'Cuckoo', 'Skin', 'Sound', 'Parrot', 'Sight', 'Dove', 'Hearing', 'Frog', 'Crow', 'Deer', 'Snare', 'Hole', 'God', 'Plume', 'Hunter', 'Sparrow', 'Match', 'Pike',
-'Land', 'Net', 'Crayfish', 'Rat', 'Ant', 'Load', 'Spider', 'Fly', 'Curtain', 'Bat', 'Diver', 'Thornbush', 'Tug', 'Cricket', 'Voice', 'Debate', 'Belly',
-'Member', 'Coal', 'Bean', 'Wind',
+'Land', 'Net', 'Crayfish', 'Rat', 'Ant', 'Load', 'Spider', 'Fly', 'Curtain', 'Bat', 'Diver', 'Thornbush', 'Tug', 'Cricket', 'Voice', 'Debate',
+'Coal', 'Bean', 'Wind',
 ]
 
 function newTale() {
