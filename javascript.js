@@ -13,7 +13,7 @@ var plots = [
 'The xz on the xz', 'The xz Frightened by the xz', 'The First to See the xz', 'xzs Climb on Top of One Another to xz', 'The xz Loses their xz',
 'The xz and the Seven Young xzs', 'The Three Little xz',  'The xz Flees from the xz', 'Outcast xzs Find a New xz',  'xz as False xz to the xz', 'xz Admires their xzs in the xz',
 'xz Surprises xz in xz xz', 'The Filthy xz and the Clean xz',  'The xz\'\s Three xzs', 'xz Lessons for Wild xzs', 'The Gelding of the xz and the Fetching of xz', 'xz Is the xz\'\s xz', 'Learning to Fear xz', 'The Wild xzs on the xz', 
-'Captured Wild xzs Ransom themselves', 'Grateful xzs; Ungrateful xz', 'xz Betrays xz by Pointing', 'The Singing xz',  'The xz in the xz of xzs',
+'Captured Wild xzs Ransom Themselves', 'Grateful xzs; Ungrateful xz', 'xz Betrays xz by Pointing', 'The Singing xz',  'The xz in the xz of xzs',
 'The xz in the xz-trap', 'The xz Eats Their Fellow-xz', 'The Three xzs', 'xz and xzs Readjust xz of xz', 'The xz Tricks the xzs',  'The Faithful xz Rashly Killed', 'What the xz Whispered in Their xz',
 'The Rebounding xz', 'The Helpful xz and the xz', 'The xzs\'\s xz', 'The Lean xz Prefers xz to Abundant xz and a xz', 'xz, xz, and xz in xz at xz',
 'xz Threshed a Second Time', 'xz of the Work xzs', 'The Traveling xzs and the Wicked xz', 'The xz Who was So Tired of Their Daily xz', 'The Lying xz', 
