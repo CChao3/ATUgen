@@ -11,7 +11,7 @@ var plots = [
 'xz Between Wild xzs and Domestic xzs', 'The Cowardly xzs', 'The xz\'\s xz', 'xz xz Fears xz Because their xzs are of Different xzs', 'Belling the xz', 'The xz and the xz Converse', 'Town xz and Country xz',
 'xzs Choose xz as xz', 'xz Believes that their Crowing makes the xz Rise', 'The Hungry xz Waits in Vain for the xz\'\s xzs (xz) to Fall Off',
 'The xz on the xz', 'The xz Frightened by the xz', 'The First to See the xz', 'xzs Climb on Top of One Another to xz', 'The xz Loses their xz',
-'The xz and the Seven Young xzs', 'The Three Little xzz',  'The xz Flees from the xz', 'Outcast xzs Find a New xz',  'xz as False xz to the xz', 'xz Admires their xzs in the xz',
+'The xz and the Seven Young xzs', 'The Three Little xzs',  'The xz Flees from the xz', 'Outcast xzs Find a New xz',  'xz as False xz to the xz', 'xz Admires their xzs in the xz',
 'xz Surprises xz in xz xz', 'The Filthy xz and the Clean xz',  'The xz\'\s Three xzs', 'xz Lessons for Wild xzs', 'The Gelding of the xz and the Fetching of xz', 'xz Is the xz\'\s xz', 'Learning to Fear xz', 'The Wild xzs on the xz', 
 'Captured Wild xzs Ransom Themselves', 'Grateful xzs; Ungrateful xz', 'xz Betrays xz by Pointing', 'The Singing xz',  'The xz in the xz of xzs',
 'The xz in the xz-trap', 'The xz Eats Their Fellow-xz', 'The Three xzs', 'xz and xzs Readjust xz of xz', 'The xz Tricks the xzs',  'The Faithful xz Rashly Killed', 'What the xz Whispered in Their xz',
