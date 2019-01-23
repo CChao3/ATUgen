@@ -1,7 +1,7 @@
 body {
 	font-family: "Comic Sans MS", sans-serif;
 	background-image: url("crow.jpg");
-	background-size: cover;
+	background-size: 100% 100%;
 	text-align: center;
 	color: gold;
 	font-size: large;
